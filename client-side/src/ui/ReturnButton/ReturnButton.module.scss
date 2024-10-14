@@ -1,0 +1,32 @@
+.navigationButtons {
+  display: flex;
+  gap: 1rem;
+  position: absolute;
+  top: 2rem;
+  left: 2rem;
+}
+
+.returnBtn, .forwardBtn {
+  color: var( --color-black-1);
+  font-size: 2rem;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  background: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  width: 2.5rem;
+  height: 2.5rem;
+  transition: background-color 0.3s, color 0.3s; 
+}
+
+.returnBtn:hover, .forwardBtn:hover {
+  background-color: var(--color-black-6);
+  color: #FFFFFF;
+}
+.inactive {
+  color: var(--color-black-6);
+  cursor: not-allowed;
+}
