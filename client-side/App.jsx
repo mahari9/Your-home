@@ -3,6 +3,8 @@ import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { Suspense, lazy } from "react";
 import { ReactQueryDevtools } from "@tanstack/react-query-devtools";
 const LandingPage = lazy(() => import("./pages/LandingPage/LandingPage"));
+const Register = lazy(() => import("./pages/Register/Register"));
+const Login = lazy(() => import("./pages/Login/Login"));
 import { Toaster } from "react-hot-toast";
 import AppLayout from "./ui/AppLayout/AppLayout";
 const Dashboard = lazy(() => import("./pages/Dashboard/Dashboard"));
