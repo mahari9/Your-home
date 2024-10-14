@@ -1,0 +1,40 @@
+.ratePanel {
+  padding: 1rem;
+  background-color: var( --color-black-3);
+  margin: 2rem 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  border-radius: 1rem;
+  div {
+    display: flex;
+    gap: 1rem;
+  }
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  button {
+    cursor: pointer;
+    transition: all 0.3s ease;
+    padding: 1rem;
+    border: none;
+    display: flex;
+    background-color: var(--color-black-2);
+    align-items: center;
+    justify-content: center;
+    outline: none;
+    border-radius: 5rem;
+
+    &:hover {
+      background-color: var(--color-black-5);
+    }
+  }
+}
+
+:global(.negative) {
+  background-color: var(--color-darkgreen) !important;
+}
+
+:global(.positive) {
+  background-color: var(--color-darkgreen) !important;
+}
