@@ -13,7 +13,7 @@ export default function LandingPage() {
       <img src="/logo.svg" />
       <h2>Your perfect property, within reach.</h2>
       <div>
-        <button onClick={() => navigate("/app")}>Look at the listing</button>
+        <button onClick={() => navigate("/app")}>Explore Lists</button>
         <button onClick={() => navigate("/register")}>Register</button>
       </div>
     </div>
