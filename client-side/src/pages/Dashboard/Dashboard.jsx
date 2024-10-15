@@ -40,7 +40,7 @@ export default function Dashboard() {
     <div className={styles.mapContainer}>
       <div className={styles.headerDashboard}>
         <h1>Your Home</h1>
-        <span>Search for properties on the map</span>
+        <span>Click the building icon on the map to see details</span>
       </div>
       <div id="map">
         <MapContainer
