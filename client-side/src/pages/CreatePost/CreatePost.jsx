@@ -164,14 +164,14 @@ function Form({ type }) {
         <div>
           <button
             type="button"
-            className={newbuilding ? "blackBtn" : ""}
+            className={newbuilding ? "clickBtn" : ""}
             onClick={() => setNewbuilding(true)}
           >
             YES
           </button>
           <button
             type="button"
-            className={newbuilding === false ? "blackBtn" : ""}
+            className={newbuilding === false ? "clickBtn" : ""}
             onClick={() => setNewbuilding(false)}
           >
             NO
@@ -183,14 +183,14 @@ function Form({ type }) {
         <div>
           <button
             type="button"
-            className={furnished ? "blackBtn" : ""}
+            className={furnished ? "clickBtn" : ""}
             onClick={() => setFurnished(true)}
           >
             YES
           </button>
           <button
             type="button"
-            className={furnished === false ? "blackBtn" : ""}
+            className={furnished === false ? "clickBtn" : ""}
             onClick={() => setFurnished(false)}
           >
             NO
@@ -260,14 +260,14 @@ function Form({ type }) {
         <div>
           <button
             type="button"
-            className={parking ? "blackBtn" : ""}
+            className={parking ? "clickBtn" : ""}
             onClick={() => setParking(true)}
           >
             YES
           </button>
           <button
             type="button"
-            className={parking === false ? "blackBtn" : ""}
+            className={parking === false ? "clickBtn" : ""}
             onClick={() => setParking(false)}
           >
             NO
@@ -279,14 +279,14 @@ function Form({ type }) {
         <div>
           <button
             type="button"
-            className={indexed ? "blackBtn" : ""}
+            className={indexed ? "clickBtn" : ""}
             onClick={() => setIndexed(true)}
           >
             YES
           </button>
           <button
             type="button"
-            className={indexed === false ? "blackBtn" : ""}
+            className={indexed === false ? "clickBtn" : ""}
             onClick={() => setIndexed(false)}
           >
             NO
