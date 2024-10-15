@@ -49,7 +49,7 @@ export default function Dashboard() {
           zoomControl={false}
           scrollWheelZoom={true}
           style={{
-            height: "95dvh",
+            height: "100dvh",
             width: "100%",
             position: "absolute",
             left: 0,
