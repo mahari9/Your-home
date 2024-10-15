@@ -16,7 +16,7 @@
 
 Your Home is a web-based platform designed to streamline the process of finding, connecting with, and managing housing options for both homeowners and renters. The platform aims to simplify the housing search by providing a user-friendly interface and efficient environment where homeowners can list their properties and buyers/renters can easily find and connect with potential homes.
 
-![](https://github.com/mahari9/Your-home/your-home-landingpage.png)
+![](https://github.com/mahari9/Your-home/blob/master/your-home-landingpage.png)
 
 #### Live Demo
 * [Live Demo](https://mahari9.github.io/ "Live Demo")
