@@ -1,5 +1,5 @@
 {
-    "builds": [
+    "start": [
         { "src": "server-side/server.js", "use": "@vercel/node" }
     ],
     "routes": [
