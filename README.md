@@ -91,20 +91,20 @@ We believe Your Home has the potential to transform the housing industry and loo
 
 ### More Screenshots
 
-![](https://github.com/mahari9/Your-home/blob/master/screenshot/Urhome-dashboard.png)
+![](https://github.com/mahari9/Your-home/blob/master/screenshot/urhome-dashboard.png)
 
-![](https://github.com/mahari9/Your-home/blob/master/screenshot/Urhome-register.png)
+![](https://github.com/mahari9/Your-home/blob/master/screenshot/urhome-register.png)
 
-![](https://github.com/mahari9/Your-home/blob/master/screenshot/Urhome-explore-lists.png)
+![](https://github.com/mahari9/Your-home/blob/master/screenshot/urhome-explore-lists.png)
 
-![](https://github.com/mahari9/Your-home/blob/master/screenshot/Urhome-modal.png)
+![](https://github.com/mahari9/Your-home/blob/master/screenshot/urhome-modal.png)
 
-![](https://github.com/mahari9/Your-home/blob/master/screenshot/Urhome-createpost.png)
+![](https://github.com/mahari9/Your-home/blob/master/screenshot/urhome-createpost.png)
 
-![](https://github.com/mahari9/Your-home/blob/master/screenshot/Urhome-createpost1.png)
+![](https://github.com/mahari9/Your-home/blob/master/screenshot/urhome-createpost1.png)
 
-![](https://github.com/mahari9/Your-home/blob/master/screenshot/Urhome-profile.png)
+![](https://github.com/mahari9/Your-home/blob/master/screenshot/urhome-profile.png)
 
-![](https://github.com/mahari9/Your-home/blob/master/screenshot/Urhome-post-info.png)
+![](https://github.com/mahari9/Your-home/blob/master/screenshot/urhome-post-info.png)
 
-![](https://github.com/mahari9/Your-home/blob/master/screenshot/Urhome-rate-profile.png)
+![](https://github.com/mahari9/Your-home/blob/master/screenshot/urhome-rate-profile.png)
