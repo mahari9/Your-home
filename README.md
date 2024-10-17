@@ -18,23 +18,6 @@ Your Home is a web-based platform designed to streamline the process of finding,
 
 ![](https://github.com/mahari9/Your-home/blob/master/screenshot/Urhome-landing-page.png)
 
-![](https://github.com/mahari9/Your-home/blob/master/screenshot/Urhome-dashboard.png)
-
-![](https://github.com/mahari9/Your-home/blob/master/screenshot/Urhome-register.png)
-
-![](https://github.com/mahari9/Your-home/blob/master/screenshot/Urhome-explore-lists.png)
-
-![](https://github.com/mahari9/Your-home/blob/master/screenshot/Urhome-modal.png)
-
-![](https://github.com/mahari9/Your-home/blob/master/screenshot/Urhome-createpost.png)
-
-![](https://github.com/mahari9/Your-home/blob/master/screenshot/Urhome-createpost1.png)
-
-![](https://github.com/mahari9/Your-home/blob/master/screenshot/Urhome-profile.png)
-
-![](https://github.com/mahari9/Your-home/blob/master/screenshot/Urhome-post-info.png)
-
-![](https://github.com/mahari9/Your-home/blob/master/screenshot/Urhome-rate-profile.png)
 #### Live Demo
 * [Live Demo](https://mahari9.github.io/ "Live Demo")
 
@@ -104,3 +87,22 @@ We are actively working on expanding the Your Home Web Application platform by i
 * Add a feature that allows users or agents to update or edit their posts
 
 We believe Your Home has the potential to transform the housing industry and look forward to sharing our progress with you!
+
+### More Screenshots
+![](https://github.com/mahari9/Your-home/blob/master/screenshot/Urhome-dashboard.png)
+
+![](https://github.com/mahari9/Your-home/blob/master/screenshot/Urhome-register.png)
+
+![](https://github.com/mahari9/Your-home/blob/master/screenshot/Urhome-explore-lists.png)
+
+![](https://github.com/mahari9/Your-home/blob/master/screenshot/Urhome-modal.png)
+
+![](https://github.com/mahari9/Your-home/blob/master/screenshot/Urhome-createpost.png)
+
+![](https://github.com/mahari9/Your-home/blob/master/screenshot/Urhome-createpost1.png)
+
+![](https://github.com/mahari9/Your-home/blob/master/screenshot/Urhome-profile.png)
+
+![](https://github.com/mahari9/Your-home/blob/master/screenshot/Urhome-post-info.png)
+
+![](https://github.com/mahari9/Your-home/blob/master/screenshot/Urhome-rate-profile.png)
