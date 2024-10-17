@@ -11,7 +11,7 @@
 * [Authors](#Authors)
 * [Licensing](#Licensing)
 * [Future Development](#Future-Development)
-* [More Screenshots](More-Screenshots)
+* [More Screenshots](#More-Screenshots)
 
 ### Project Description
 
