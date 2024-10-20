@@ -70,11 +70,11 @@ To clone Your Home locally, follow these steps:
 
 1\. **Clone the repository:**
 
-   `git clone https://github.com/mahari9/Your-home.git`
+* `git clone https://github.com/mahari9/Your-home.git`
 
 2\. **Navigate to the project repository:**
 
-    `cd Your-home`
+* `cd Your-home`
 
 #### Quick Start
 
@@ -96,7 +96,7 @@ To run and access fullstack application:
 
 #### Visiting the Live Website
 
-* 1\. **Visit the Your Home website:** [Your Home]( "Your Home")
+* 1\. **Visit the Your Home website:** [Your Home](https://github.com/mahari9/Your-home "Your Home")
 * 2\. **Explore Lists:** You can explore listings without registration, but for more actions, proceed to step 3.
 * 3\. **Create an Account or Log In:** Create a new account or log in if you already have one.
 * 4\. **Once Logged In:** Follow the user guide and explore all the features.
@@ -105,12 +105,12 @@ To run and access fullstack application:
 
 We're excited to welcome contributions to the Your-home Portfolio Project. Here’s how you can get involved:
 
-1\. **Fork the Repository:** Create your own copy of the repository by forking it. 
-2\. **Create a New Branch:** Use the command git checkout -b feature/improvement to create a new branch for your changes.
-3\. **Make Your Changes:** Implement your improvements or new features.
-4\. **Commit Your Changes:** Once done, commit your changes with a message, e.g., git commit -am 'Add new feature'.
-5\. **Push to the Branch:** Push your branch to your forked repository using git push origin feature/improvement.
-6\. **Create a Pull Request:** Submit a pull request to merge your changes into the main repository.
+* 1\. **Fork the Repository:** Create your own copy of the repository by forking it. 
+* 2\. **Create a New Branch:** Use the command git checkout -b feature/improvement to create a new branch for your changes.
+* 3\. **Make Your Changes:** Implement your improvements or new features.
+* 4\. **Commit Your Changes:** Once done, commit your changes with a message, e.g., git commit -am 'Add new feature'.
+* 5\. **Push to the Branch:** Push your branch to your forked repository using git push origin feature/improvement.
+* 6\. **Create a Pull Request:** Submit a pull request to merge your changes into the main repository.
 
 ### Project Blog 
 
