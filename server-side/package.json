@@ -1,10 +1,11 @@
 {
-  "name": "cluster0",
+  "name": "yourhome",
   "version": "1.0.0",
   "description": "",
   "scripts": {
     "start:dev": "nodemon server.js",
-    "start": "node server.js"
+    "start": "node server.js",
+    "test": "mocha 'server-side/tests/**/*.test.js'"
   },
   "author": "Mahari",
   "license": "ISC",
