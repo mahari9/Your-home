@@ -1,11 +1,14 @@
-# Your Home Web Application: Portfolio Project
+# Webstack - Portfolio Project
 
-## Table of Content
+## Your Home - Fullstack Web Application Project
+
+### Table of Content
+
 * [Project Description](#Project-Description)
 * [Live Demo](#Live-Demo)
 * [Features](#Features)
 * [Technologies](#Technologies)
-* [Usage](#Usage)
+* [How to Use](#How-to-Use)
 * [Contributing](#Contributing)
 * [Project Blog](#Project-Blog)
 * [Authors](#Authors)
@@ -19,7 +22,7 @@ Your Home is a web-based platform designed to streamline the process of finding,
 
 ![](https://github.com/mahari9/Your-home/blob/master/screenshot/Urhome-landing-page.png)
 
-#### Live Demo
+### Live Demo
 * [Live Demo](https://mahari9.github.io/ "Live Demo")
 
 ### Features
@@ -52,23 +55,65 @@ Your Home is a web-based platform designed to streamline the process of finding,
     * Label a property as sold/rented, classifying it as successfully sold/rented
 
 ### Technologies
+
 * React
 * MongoDB
 * Express
 * Node.js
 * Git
 
-### Usage
-* 1\. Visit the Your home website: [Your home](https://mahari9.github.io/ "Your home")
-* 2\. You can explore lists without registration but if you want more actions go to step 3
-* 3\. Create an account or login if you already have one.
-* 4\. Once's you login follow instructions
+### How to Use
+
+#### Setting Up
+
+To clone Your Home locally, follow these steps:
+
+1\. **Clone the repository:**
+
+   `git clone https://github.com/mahari9/Your-home.git`
+
+2\. **Navigate to the project repository:**
+
+    `cd Your-home`
+
+#### Quick Start
+
+To run and access fullstack application:
+
+* **Navigate to server side diroctory and run:**
+    * `cd server-side`
+    * `npm start`
+
+* **Access the application:**
+    * Open your web browser and go to `http://localhost:1245/`
+
+**To run and access only client side or server side:**
+  * **See:**
+    * [For Client Side](https://github.com/mahari9/Your-home/blob/master/client-side/README.md "For Client Side")
+    * [For Server Side](https://github.com/mahari9/Your-home/blob/master/server-side/README.md "For Server Side")
+   
+**Note:** First you have to setup environmental variables(MONGODB_LINK, MONGODB_PASSWORD, JWT_SECRET, JWT_EXPIRES_IN and PORT)
+
+#### Visiting the Live Website
+
+* 1\. **Visit the Your Home website:** [Your Home]( "Your Home")
+* 2\. **Explore Lists:** You can explore listings without registration, but for more actions, proceed to step 3.
+* 3\. **Create an Account or Log In:** Create a new account or log in if you already have one.
+* 4\. **Once Logged In:** Follow the user guide and explore all the features.
 
 ### Contributing
 
-We are currently not accepting code contributions for Your home as it's a personal project. However, we appreciate your interest and encourage you to reach out with any feedback or suggestions!
+We're excited to welcome contributions to the Your-home Portfolio Project. Here’s how you can get involved:
+
+1\. **Fork the Repository:** Create your own copy of the repository by forking it. 
+2\. **Create a New Branch:** Use the command git checkout -b feature/improvement to create a new branch for your changes.
+3\. **Make Your Changes:** Implement your improvements or new features.
+4\. **Commit Your Changes:** Once done, commit your changes with a message, e.g., git commit -am 'Add new feature'.
+5\. **Push to the Branch:** Push your branch to your forked repository using git push origin feature/improvement.
+6\. **Create a Pull Request:** Submit a pull request to merge your changes into the main repository.
 
 ### Project Blog 
+
 * [Blog Post](https://medium.com/@mahari9/your-home "Blog Post")
 
 ### Authors
