@@ -11,13 +11,11 @@ In the server-side directory, you can run:
 ### 1\. start:dev
 
 * **Purpose:** Runs your server with Nodemon, automatically restarting it upon changes during development.
-
 * **Usage:** `npm run start:dev`
 
 ### 2\. start
 
 * **Purpose:** Runs your server with Node.js, typically used for production environments.
-
 * **Usage**: `npm start`
 
 ### 3\. test
