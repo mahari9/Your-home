@@ -25,7 +25,7 @@ Your Home is a web-based platform designed to streamline the process of finding,
 ![](https://github.com/mahari9/Your-home/blob/master/screenshot/Urhome-landing-page.png)
 
 ### Live Demo
-* [Live Demo](https://mahari9.github.io/ "Live Demo")
+* [Live Demo](https://youtu.be/L62O7AuXT7E "Live Demo")
 
 ### Features
 * **Authentication and Authorization:**
