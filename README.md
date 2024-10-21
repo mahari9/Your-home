@@ -20,6 +20,8 @@
 
 Your Home is a web-based platform designed to streamline the process of finding, connecting with, and managing housing options for both homeowners and renters. The platform aims to simplify the housing search by providing a user-friendly interface and efficient environment where homeowners can list their properties and buyers/renters can easily find and connect with potential homes.
 
+* **Deployed Site:** [Your Home](https://your-home-slai.onrender.com/ "Your Home")
+
 ![](https://github.com/mahari9/Your-home/blob/master/screenshot/Urhome-landing-page.png)
 
 ### Live Demo
@@ -96,7 +98,7 @@ To run and access fullstack application:
 
 #### Visiting the Live Website
 
-* 1\. **Visit the Your Home website:** [Your Home](https://github.com/mahari9/Your-home "Your Home")
+* 1\. **Visit the Your Home website:** [Your Home](https://your-home-slai.onrender.com "Your Home")
 * 2\. **Explore Lists:** You can explore listings without registration, but for more actions, proceed to step 3.
 * 3\. **Create an Account or Log In:** Create a new account or log in if you already have one.
 * 4\. **Once Logged In:** Follow the user guide and explore all the features.
