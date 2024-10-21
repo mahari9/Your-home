@@ -1,6 +1,7 @@
 const path = require("path");
 const mongoose = require("mongoose");
 const app = require(path.join(__dirname, "App.js"));
+const PORT = process.env.PORT || 3030;
 
 const DB = process.env.MONGODB_LINK.replace(
   "<PASSWORD>",
