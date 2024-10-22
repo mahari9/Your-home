@@ -94,7 +94,7 @@ To run and access fullstack application:
     * [For Client Side](https://github.com/mahari9/Your-home/blob/master/client-side/README.md "For Client Side")
     * [For Server Side](https://github.com/mahari9/Your-home/blob/master/server-side/README.md "For Server Side")
    
-**Note:** First you have to setup environmental variables(MONGODB_LINK, MONGODB_PASSWORD, JWT_SECRET, JWT_EXPIRES_IN and PORT)
+**Note:** First you have to setup environmental variables(MONGODB_LINK, MONGODB_PASSWORD, JWT_SECRET, JWT_EXPIRES_IN and PORT) qnd run $ `npm install` in both client-side and server-side directories. 
 
 #### Visiting the Live Website
 
