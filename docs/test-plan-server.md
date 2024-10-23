@@ -23,6 +23,14 @@
 - **Setup:** Node.js environment, MongoDB database (use a test database to avoid impacting production data).
 - **Data:** Use mock data for testing to ensure consistency and repeatability.
 
+### Test Schedule
+
+- **Milestones:**
+  - Week 1: Complete unit tests for models
+  - Week 2: Complete unit tests for utilities
+  - Week 3: Complete unit tests for controllers.
+  - Week 4: Integration testing and bug fixing.
+
 ### Test Deliverables
 
 - **Reports:** Test summary reports, defect reports, and test case execution logs.
