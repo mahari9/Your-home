@@ -23,6 +23,14 @@
 - **Setup:** Ensure the development environment is configured with necessary dependencies.
 - **Data:** Use mock data and APIs for testing to ensure consistency and repeatability.
 
+### Test Schedule
+
+- **Milestones:**
+  - Week 1: Complete unit tests for UI components.
+  - Week 2: Complete integration tests for combined functionalities.
+  - Week 3: Complete end-to-end tests for user flows.
+  - Week 4: Bug fixing and final validation.
+
 ### Test Deliverables
 
 - **Reports:** Test summary reports, defect reports, and test case execution logs.
