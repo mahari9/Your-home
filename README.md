@@ -114,6 +114,20 @@ We're excited to welcome contributions to the Your-home Portfolio Project. Hereâ
 * 5\. **Push to the Branch:** Push your branch to your forked repository using git push origin feature/improvement.
 * 6\. **Create a Pull Request:** Submit a pull request to merge your changes into the main repository.
 
+### Test Plan
+
+The Your Home Web Application Test Plan aims to ensure the seamless functionality, performance, and user experience of our platform. See This [document](https://github.com/mahari9/Your-home/tree/master/docs "document") that outlines the testing strategy, environment, schedule, and specific test cases for both server-side and client-side components.
+
+### Future Development
+
+We are actively working on expanding the Your Home Web Application platform by implementing additional features such as:
+
+* Add live chat feature for better communication between users
+* Advanced third-party payment API system for subscribers to pay easily
+* Add a feature that allows users or agents to update or edit their posts
+
+We believe Your Home has the potential to transform the housing industry and look forward to sharing our progress with you!
+
 ### Project Blog 
 
 * [Blog Post](https://medium.com/@mahari9/your-home "Blog Post")
@@ -125,16 +139,6 @@ We're excited to welcome contributions to the Your-home Portfolio Project. Hereâ
 ### Licensing
 
 Your Home Web Application is currently under development and not licensed for public use. 
-
-### Future Development
-
-We are actively working on expanding the Your Home Web Application platform by implementing additional features such as:
-
-* Add live chat feature for better communication between users
-* Advanced third-party payment API system for subscribers to pay easily
-* Add a feature that allows users or agents to update or edit their posts
-
-We believe Your Home has the potential to transform the housing industry and look forward to sharing our progress with you!
 
 ### More Screenshots
 
